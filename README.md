@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/enes-albayrak/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/albayrakenes)
-[![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:enes.alb1329@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:m.albayrakenes@gmail.com)
 
 A passionate Software Developer from Turkey <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/TR-Turkey-Flag-icon.png" width="15"/>
 
